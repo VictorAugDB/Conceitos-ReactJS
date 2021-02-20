@@ -5,12 +5,12 @@ para instalar as dependências
 
 para rodar as dependências:
 
-`<yarn>`.
+`yarn`.
 
 ou
 
-`<npm install>`.
+`npm install`.
 
 para rodar o projeto
 
-`<yarn start>`.
+`yarn start`.
